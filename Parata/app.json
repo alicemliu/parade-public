@@ -1,0 +1,27 @@
+{
+  "name": "Parade",
+  "displayName": "Parade",
+  "expo": {
+    "name": "Parade",
+    "icon": "ios/Parata/Images.xcassets/AppIcon.appiconset/elephant.PNG",
+    "slug": "parata-app",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.2",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "org.TeamParata.Parade",
+      "buildNumber": "1.0.0"
+    },
+    "description": "",
+    "scheme": "parade",
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+  }
+}
